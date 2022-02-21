@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+body {
+  font-family: sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS';
+  padding: 5px 20px;
+}
